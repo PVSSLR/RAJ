@@ -14,7 +14,7 @@ title: Experience
   
  <h1> Other Experience </h1> 
  
- <h3> Short Course on remote sensing and image analysis </h3>
+ <b> Short Course on remote sensing and image analysis </b>
   
 I was amoung 40 students to attend a two month short course on remote sensing and image analysis which was conducted by Indian Institute of Remote Sensing, Indian Space Research Organization, Dehradun, India. The main objective of this programme is to train and improve the capacity of working professionals, researchers and students in the field of remote sensing with special emphasis on processing of remotely sensed data using digital image processing techniques.
   
