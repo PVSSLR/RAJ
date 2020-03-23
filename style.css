@@ -5,3 +5,8 @@
   position: relative;
   bottom: 0;
 }
+
+h1, h3 {
+  color: Black;
+  text-align: center;
+}
