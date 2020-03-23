@@ -24,7 +24,7 @@ I was amoung 40 students to attend a two month short course on remote sensing an
  
   <img class="image" src="images/88196498_3190379270972775_7735675917632012288_o.jpg" width="700" height="400" alt="Ini gambar">
   
-  Finally, rafting in holy ganga river was an once in a life time experinence and swimming in ganga in different degrees of rough water has made me realized how magnificant is mother nature.
+  Finally, rafting in holy ganga river was an once in a life time experience and swimming in ganga in different degrees of rough water has made me realized how magnificant is mother nature.
  
  
  2.<b> Teaching students in Jet Aerospace Aviation Research Center </b>
