@@ -19,6 +19,19 @@ I love to learn new things whenever I get free time. For the past few years, I h
 	  <li><i><a href="https://www.coursera.org/account/accomplishments/verify/ZMA7K6EUX4T9" class="impact" target="_blank">Python Data Structures  University of Michigan, Coursera, August 2018</a></i></li><br>
 	   <li><i><a href="https://www.coursera.org/account/accomplishments/verify/H9NS7KMABF7Z" class="impact" target="_blank">Programming for Everybody (Getting Started with Python), Coursera, May 2018</a></i></li><br>
       <li><i><a href="https://www.udemy.com/certificate/UC-52SFA3VS/" class="impact" target="_blank">MATLAB for the Absolute Beginner, Udemy, May 2018</a></i></li><br>
+	
+</ul>  	
+<ul>  
+	
+<h2>Current Course</h2>
+
+<li>Introduction to CFD using Matlab and OpenFOAM</li><br>
+<li>Python for Mechanical Engineers</li><br>
+</ul>  
+<ul>  
+<h2> Wishlist</h2>
+
+<li> Machine Learning</li>
 </ul>  
     
 
