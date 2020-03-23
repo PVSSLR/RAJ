@@ -23,7 +23,7 @@ I was amoung 40 students to attend a two month short course on remote sensing an
  The course consist of three section which are Basics of Remote sensing and Photogrammetry, Digital Image Analysis and finally a project  work. During this period, I was able to gain both theoretical and practical knowledge in field of Remote sensing and image analysis. I was also able to network with researchers and working professionals from 15+ countries. I completed a project on “Vegetation Index and Aboveground biomass estimation of sea buckthorn on Leh Ladakh using SAR imagery” under the guidance of Dr. Shashi Kumar. The aim of the project was to Study of Synthetic RadarAperture (SAR) polarimetric behaviour for vegetation study and to prediction above ground biomass using SAR imagery. This course has helped me to gain insight in various field such as Forestry, wildlife, agriculture, urban planning, diaster management. 
  <img class="image" src="images/88196498_3190379270972775_7735675917632012288_o.jpg" width="700" height="400" alt="Ini gambar">
  
- For the first time in my life I also did adventure sports such as water rafting.  
+ Rafting in holy ganga was life time experience for me and Swimming in ganga with different degrees of rough water made me realized how magnificant is mother nature.
  
  
  
