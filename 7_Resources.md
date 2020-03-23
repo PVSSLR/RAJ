@@ -2,6 +2,20 @@
 layout: page
 title: Resources 
 ---
+### Youtube Channel 
+
+[Paul McWhorter](https://www.youtube.com/channel/UCfYfK0tzHZTpNFrc_NDKfTA) - For Arduino, Jetson Nano, Beaglebone black, Rasberry Pi.
+
+[Brian Douglas](https://www.youtube.com/user/ControlLectures) - Control System Lectures
+
+[Professor Leonard](https://www.youtube.com/user/professorleonard57) - Calculus
+
+[Iman](https://www.youtube.com/channel/UCVkatNMgkEdpWLhH0kBqqLw) - Signal Processing
+
+
+
+
+
 ### Source to learn programming
 
 [Hackerrank](https://www.hackerrank.com)
