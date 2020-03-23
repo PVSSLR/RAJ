@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Courses
+title:  Resources
 ---
 
 This is an about page about this awesome site.
