@@ -1,0 +1,11 @@
+# basic options
+title: Welcome to my profile
+author: Sunil Raj
+email: vssunilraj@gmail.com
+description: My peronal website hola
+twitter_username: vssunilraj
+github_username: PVSSLR
+
+# Build settings
+markdown: kramdown
+theme: minima
