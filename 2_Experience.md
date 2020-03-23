@@ -14,7 +14,7 @@ title: Experience
   
  <h1><b> Other Experience </b></h1> 
  
- 1.<b> Training in Indian Institute of Remote Sensing </b>
+ <b>1.Training in Indian Institute of Remote Sensing </b>
   
 I was amoung 40 students to attend a two month short course on remote sensing and image analysis which was conducted by Indian Institute of Remote Sensing, Indian Space Research Organization, Dehradun, India. The main objective of this programme is to train and improve the capacity of working professionals, researchers and students in the field of remote sensing with special emphasis on processing of remotely sensed data using digital image processing techniques.
   
@@ -27,11 +27,12 @@ I was amoung 40 students to attend a two month short course on remote sensing an
   Finally, rafting in holy ganga river was an once in a life time experience and swimming in ganga in different degrees of rough water has made me realized how magnificant is mother nature.
  
  
- 2.<b> Teaching students in Jet Aerospace Aviation Research Center </b>
+ <b>2.Teaching students in Jet Aerospace Aviation Research Center </b>
+ 
+ As an Research project executive in Jet Aerospace Aviation Research Center. I got an oppurtunity to teach and guide undergraduate students in the field of Aerospace. I have taught topics such as microcontrollers, sensors, electronics, programming languages and remote sensing during that time. I understood that teaching is a two way thing. The best way to gain knowledge is to teach someone.
  
  <img class="image" src="images/rot.JPG.jpg" width="700" height="400" alt="Ini gambar">
  
- As an Research project executive in Jet Aerospace Aviation Research Center. I got an oppurtunity to teach and guide undergraduate students in the field of Aerospace. I have taught topics such as microcontrollers, sensors, electronics, programming languages and remote sensing during that time. I understood that teaching is a two way thing. The best way to gain knowledge is to teach someone.
  
  
  
