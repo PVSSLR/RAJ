@@ -20,7 +20,12 @@ I was amoung 40 students to attend a two month short course on remote sensing an
   
  <img class="image" src="images/IMG_2996.JPG" width="700" height="400" alt="Ini gambar">
  
- The course consist of three section which are Basics of Remote sensing and Photogrammetry, Digital Image Analysis and finally a project  work. During this period, I was able to gain both theoretical and practical knowledge in field of Remote sensing and image analysis. I was also able to network with researchers and working professionals from 15+ countries. I completed a project on “Vegetation Index and Aboveground biomass estimation of sea buckthorn on Leh Ladakh using SAR imagery” under the guidance of Dr. Shashi Kumar. The aim of the project was to Study of Synthetic RadarAperture (SAR) polarimetric behaviour for vegetation study and to prediction above ground biomass using SAR imagery.<br>
+ The course consist of three section which are Basics of Remote sensing and Photogrammetry, Digital Image Analysis and finally a project  work. During this period, I was able to gain both theoretical and practical knowledge in field of Remote sensing and image analysis. I was also able to network with researchers and working professionals from 15+ countries. I completed a project on “Vegetation Index and Aboveground biomass estimation of sea buckthorn on Leh Ladakh using SAR imagery” under the guidance of Dr. Shashi Kumar. The aim of the project was to Study of Synthetic RadarAperture (SAR) polarimetric behaviour for vegetation study and to prediction above ground biomass using SAR imagery.
+ 
+  <img class="image" src="images/ 88196498_3190379270972775_7735675917632012288_o.jpg" width="700" height="400" alt="Ini gambar">
+  
+  Finally, rafting in holy ganga river was an once in a life time experinence and swimming in ganga in different degrees of rough water has made me realized how magnificant is mother nature.
+ 
  
  2.<b> Teaching students in Jet Aerospace Aviation Research Center </b>
  
