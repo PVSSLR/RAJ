@@ -44,21 +44,4 @@ title: Skills
       </tbody>
     </table></td>
   </tr>
-</table>  <br>
-<h2>Python</h2>
-<ul>
-  <li>Python Libraries - Matplotlib,Numpy,OGR/GDAL,Geopanda,openGL,Serial, other inbuild libraries</li>
-  <li>GUI using QT designer</li>
-</ul>
-<h2>Matlab</h2>
-<li>GUI applications using Matlab GUIDE/Appdesigner</li>
-  <li>Used for CFD - mesh generation, potential flows and complex potential flows </li>
-<h2>CATIA</h2>
-<li>Python Libraries - Matplotlib, pandas,OGR,Serial</li>
-<h2>Arduino</h2>
-<h2>C/C++</h2>
-<li>Python Libraries - Matplotlib, pandas,OGR,Serial</li>
-<h2>KiCAD</h2>
-<h2>AnSYS</h2>
-<h2>openFOAM</h2>
-  </table>
+</table>  
