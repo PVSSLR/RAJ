@@ -46,7 +46,7 @@ title: Skills
   </tr>
 </table>  <br>
 <h2>Python</h2>
-<CENTER><ul>
+<ul>
   <li>Python Libraries - Matplotlib,Numpy,OGR/GDAL,Geopanda,openGL,Serial, other inbuild libraries</li>
   <li>GUI using QT designer</li>
 </ul>
@@ -61,3 +61,4 @@ title: Skills
 <h2>KiCAD</h2>
 <h2>AnSYS</h2>
 <h2>openFOAM</h2>
+  </table>
