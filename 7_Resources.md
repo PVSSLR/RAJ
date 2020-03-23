@@ -6,19 +6,19 @@ title: Resources
 
 [Hackerrank](https://www.hackerrank.com)
 
-[Sololearn]:(https://www.sololearn.com)
+[Sololearn](https://www.sololearn.com)
 
-[Codecademy]:(https://www.codecademy.com/)
+[Codecademy](https://www.codecademy.com/)
 
-[Khancademy]:(https://www.khanacademy.org/)
+[Khancademy](https://www.khanacademy.org/)
 
-[Coursera]:(https://www.coursera.org/)
+[Coursera](https://www.coursera.org/)
 
-[Edx]:(https://www.edx.org/)
+[Edx](https://www.edx.org/)
 
-[Udemy]:(https://www.udemy.com/)
+[Udemy](https://www.udemy.com/)
 
-[PracticePython]:(https://practicepython.org)
+[PracticePython](https://practicepython.org)
 
 
 
