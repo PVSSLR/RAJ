@@ -1,5 +1,5 @@
 ---
-layout: Post
+layout: page
 title: Blogs
 ---
 
