@@ -8,4 +8,4 @@ github_username: PVSSLR
 
 # Build settings
 markdown: kramdown
-theme: Tactile
+theme: minima
