@@ -1,6 +1,6 @@
 ---
 layout: page
-title: My Experience
+title: Projects
 ---
 
 This is an about page about this awesome site.
