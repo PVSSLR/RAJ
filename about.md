@@ -1,11 +1,19 @@
 ---
 layout: page
 title: About Me
----
- ![](images/download.png)
- 
+--- 
 Have you ever wondered how a small mosquito as well massive albatross could fly, how a fish propel, or how a maple seed dispersed through the wind? I still remember the times when I used to see different kinds of birds flying in V-formation. During my 3rd semester of undergraduate study, I found that when birds flap behind each other, the effect of up-wash is produced, which helps the bird to use less power. I was fascinated by how a complex aerodynamic concept could be understood in a simple manner. I believe one could find a solution to every problem through nature. What if we could mimic the locomotion of a cheetah or predict the behavior of a swarm of bees?. This where mathematics plays a vital role. My dream is to design mathematical models for such cases and to implement them in real-life applications (bio-inspired robotics).
 
+   ![](images/download.png)
+   
+<dl>
+  <dt>Definition list</dt>
+  <dd>Is something people use sometimes.</dd>
+
+  <dt>Markdown in HTML</dt>
+  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
+</dl>
+                            
 
 
 
