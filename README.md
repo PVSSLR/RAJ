@@ -1,4 +1,9 @@
 
+---
+layout: page
+title: welcome
+---
+
 asdsdaaadasdas
 dasdadsadsadasad
 adsadasdasdas
