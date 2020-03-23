@@ -4,15 +4,15 @@ title: Experience
 --- 
 
 
-<h1> Education </h1>
+<h1> <b>Education</b> </h1>
  Jun 2014 - Nov 2018   &nbsp;&nbsp;&nbsp;&nbsp;   B.Tech Aerospace Engineering, Hindustan University, India
   
-<h1>  Professional Experience</h1> 
+<h1> <b> Professional Experience</b></h1> 
   Dec 2018 – Nov 2019     &nbsp;&nbsp;&nbsp;&nbsp; Research Project Executive, Jet Aerospace Aviation Research Center, India.<br> 
   Jul 2018 – Nov 2018     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Research Project Trainee, Jet Aerospace Aviation Research Center, India.  <br>
   Dec 2016 – Jan 2017     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Internship, Hindustan Aeronautics Limited (HAL), India.
   
- <h1> Other Experience </h1> 
+ <h1><b> Other Experience </b></h1> 
  
  <b> Short Course on remote sensing and image analysis </b>
   
