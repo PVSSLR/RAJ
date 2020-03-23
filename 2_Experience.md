@@ -4,7 +4,7 @@ title: Experience
 --- 
 
 
-# Education 
+<h1> Education </h1>
  Jun 2014 - Nov 2018   &nbsp;&nbsp;&nbsp;&nbsp;   B.Tech Aerospace Engineering, Hindustan University, India
   
 <h1>  Professional Experience</h1> 
