@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Resources
+title: About Me
 ---
 
 This is an about page about this awesome site.
