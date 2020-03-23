@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Skills
+title: Courses
 ---
 
 This is an about page about this awesome site.
