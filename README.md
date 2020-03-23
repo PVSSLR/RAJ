@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="./style.css">
 
 <p align="center">
-  <img class="image" src="images/download.png" width="200" height="300" alt="Ini gambar">
+  <img class="image" src="images/download.png" width="300" height="400" alt="Ini gambar">
 </p>
 
 <h1 align="center"> Hi I am Sunil Raj </h1> 
