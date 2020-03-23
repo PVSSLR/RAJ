@@ -14,45 +14,30 @@ title: Skills
         <tr>
           <td>Python</td>
           <td>⭐⭐⭐⭐</td>
-        </tr>
-        <tr>
-          <td>Matlab</td>
+           <td>Matlab</td>
           <td>⭐⭐⭐⭐</td>
         </tr>
         <tr>
           <td>CATIA</td>
           <td>⭐⭐⭐⭐</td>
-        </tr>
-        <tr>
           <td>Arduino</td>
           <td>⭐⭐⭐⭐⭐</td>
         </tr>
         <tr>
           <td>C++</td>
           <td>⭐⭐⭐⭐</td>
-        </tr>
-      </tbody>
-    </table></td>
-
-    <td><table border="1">
-      <tbody>
-        <tr>
           <td>KiCAD</td>
           <td>⭐⭐⭐⭐</td>
         </tr>
         <tr>
           <td>AnSYS</td>
           <td>⭐⭐⭐⭐</td>
-        </tr>
-        <tr>
           <td>openFOAM</td>
           <td>⭐⭐⭐⭐</td>
         </tr>
-        <tr>
+         <tr>
           <td>Excel</td>
           <td>⭐⭐⭐⭐</td>
-        </tr>
-         <tr>
           <td>HTML/CSS</td>
           <td>⭐⭐⭐⭐⭐</td>
         </tr>
