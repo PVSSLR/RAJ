@@ -20,6 +20,9 @@ I was amoung 40 students to attend a two month short course on remote sensing an
   
  <img class="image" src="images/IMG_2996.JPG" width="700" height="400" alt="Ini gambar">
  
+ The course consist of three section which are Basics of Remote sensing and Photogrammetry, Digital Image Analysis and finally a project  work. During this period, I was able to gain both theoritical and practical knowledge in field of Remote sensing and image analysis. I was also able to network with researchers and working professionals from 15+ countries.
+ 
+ 
 
 
    
