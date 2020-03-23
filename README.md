@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="./style.css">
 
 <p align="center">
-  <img class="image" src="images/download.png" style="max-width:60%;height:auto" alt="Ini gambar">
+  <img class="image" src="images/download.png" style="max-width:60%;height:auto" alt="Ini gambar"></img>
 </p>
 <h1 align="center"> Hi I am Sunil Raj </h1> 
 <h3 align="center"> An Aerospace Engineer and electronics enthusiast </h3>
