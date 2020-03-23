@@ -29,7 +29,7 @@ I was amoung 40 students to attend a two month short course on remote sensing an
  
  2.<b> Teaching students in Jet Aerospace Aviation Research Center </b>
  
- <img class="image" src="images/IMG_8140.JPG" width="700" height="400" alt="Ini gambar">
+ <img class="image" src="images/rot.JPG" width="700" height="400" alt="Ini gambar">
  
  As an Research project executive in Jet Aerospace Aviation Research Center. I got an oppurtunity to teach and guide undergraduate students in the field of Aerospace. I have taught topics such as microcontrollers, sensors, electronics, programming languages and remote sensing during that time. I understood that teaching is a two way thing. The best way to gain knowledge is to teach someone.
  
