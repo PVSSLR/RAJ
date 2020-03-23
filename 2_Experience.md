@@ -3,11 +3,15 @@ layout: page
 title: Experience
 --- 
 
-Have you ever wondered how a small mosquito as well massive albatross could fly, how a fish propel, or how a maple seed dispersed through the wind? I still remember the times when I used to see different kinds of birds flying in V-formation. During my 3rd semester of undergraduate study, I found that when birds flap behind each other, the effect of up-wash is produced, which helps the bird to use less power. I was fascinated by how a complex aerodynamic concept could be understood in a simple manner. I believe one could find a solution to every problem through nature. What if we could mimic the locomotion of a cheetah or predict the behavior of a swarm of bees?. This where mathematics plays a vital role. My dream is to design mathematical models for such cases and to implement them in real-life applications (bio-inspired robotics).
 
-<p align="center">
-  <img width="300" height="300" src="images/download.png">
-</p>
+# Education 
+ Jun 2014 - Nov 2018   &nbsp;&nbsp;&nbsp;&nbsp;   B.Tech Aerospace Engineering, Hindustan University, India
+  
+# Professional Experience
+  Dec 2018 – Nov 2019     &nbsp;&nbsp;&nbsp;&nbsp; Research Project Executive, Jet Aerospace Aviation Research Center, Kerala, India.<br> 
+  Jul 2018 – Nov 2018     &nbsp;&nbsp;&nbsp;&nbsp; Research Project Trainee, Jet Aerospace Aviation Research Center, Kerala, India.<br>
+  Dec 2016 – Jan 2017     &nbsp;&nbsp;&nbsp;&nbsp; Internship, Hindustan Aeronautics Limited (HAL), Karnataka, India.
+
 
    
    
