@@ -1,6 +1,7 @@
 <link rel="stylesheet" href="./style.css">
-<img class="image" src="images/download.png" style="max-width:100%;height:auto" alt="Ini gambar">
-             <h1>Hi I am Sunil Raj</h1>
+<img class="image" src="images/download.png" style="max-width:60%;height:auto" alt="Ini gambar">
+            
+<h1>Hi I am Sunil Raj</h1>
  
 ## An Aerospace Engineer and electronics enthusiast
 
