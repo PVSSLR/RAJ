@@ -36,6 +36,3 @@ I love to learn new things whenever I get free time. For the past few years, I h
     
 
 
-## Other thoughts
-
-This is great.
