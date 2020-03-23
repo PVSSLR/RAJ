@@ -20,6 +20,33 @@ title: Resources
 
 [PracticePython](https://practicepython.org)
 
+### Text Editors
+[Notepad++](https://notepad-plus-plus.org/)
+
+[Atom](https://atom.io/)
+
+[Sublimetext](https://www.sublimetext.com/)
+
+[Jetbrains](https://www.jetbrains.com/)
+
+[Wingware](https://wingware.com/)
+
+[Anaconda](https://www.anaconda.com/)
+
+[Visualstudio](https://visualstudio.microsoft.com/)
+
+### Cloud programming websites
+
+[Pythonanywhere](https://www.pythonanywhere.com/)
+
+[cs50](https://www.cs50.io)
+
+[codepen](https://codepen.io/)
+
+[Google Colab](https://colab.research.google.com/)
+
+
+
 
 
 
