@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: skills
 ---
 
 This is an about page about this awesome site.
