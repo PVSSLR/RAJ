@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="./style1.css">
 ---
 layout: page
 title: Projects
