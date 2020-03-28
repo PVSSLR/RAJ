@@ -5,7 +5,7 @@ title: Projects
 ---
 <link rel="stylesheet" href="./style1.css">
 
-<div class="main">
+
 
 <!-- Portfolio Gallery Grid -->
 <div class="row">
