@@ -7,7 +7,9 @@ I love to learn new things whenever I get free time. For the past few years, I h
 
 <h2>List of online courses:</h2>
 <ul>
-<li><i><a href="https://www.coursera.org/account/accomplishments/records/3M2TVPB57S35" class="impact" target="_blank">Autodesk Fusion 360 Integrated CAD/CAM/CAE, Coursera, December 2019</a></i></li><br>
+	<li><i><a href= "https://www.udemy.com/certificate/UC-8bccd981-8206-4cc1-96ea-0fc0b3975291" class="impact" target="_blank">Python for Computer Vision with OpenCV and Deep Learning, Udemy, March 2020</a></i></li><br>
+	
+<li><i><a href="https://www.coursera.org/account/accomplishments/records/QZT7ZZ9LNL9V" class="impact" target="_blank">Autodesk Fusion 360 Integrated CAD/CAM/CAE, Coursera, December 2019</a></i></li><br>
 	
 <li><i><a href="https://www.coursera.org/account/accomplishments/records/3M2TVPB57S35" class="impact" target="_blank">Intro to Digital Manufacturing with Autodesk Fusion 360, Coursera, November 2019</a></i></li><br>
 	  <li><i><a href="https://www.udemy.com/certificate/UC-PRZIONWO/" class="impact" target="_blank">Drone Programming Primer for Software Development, Udemy, August 2019</a></i></li><br>
