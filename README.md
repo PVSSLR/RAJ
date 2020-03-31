@@ -17,7 +17,8 @@ I believe that one could find a solution to every problem through nature. What i
 Would love to collaborate in the field of biorobotics, remote sensing, ecology. I can be reached via my email at: <b>vssunilraj@gmail.com</b>
 
 </div>
-<h1 align="center"> "திரைகடலோடியும் திரவியம் தேடு" </h1> 
+
+<h2 align="center"> "திரைகடலோடியும் திரவியம் தேடு" </h2 
 
 
 
