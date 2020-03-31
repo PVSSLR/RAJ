@@ -1,22 +1,16 @@
-<!doctype html>
-<html lang="en">
-  <head>
-    <!-- Required meta tags -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
 
-    <title>Hello, world!</title>
-  </head>
-  <body>
-    <h1>Hello, world!</h1>
+<link rel="stylesheet" href="./style.css">
 
-    <!-- Optional JavaScript -->
-    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
-  </body>
-</html>
+<p align="center">
+  <img class="image" src="images/download.png" alt="Ini gambar">
+</p>
+
+<h1 align="center"> Hi I am Sunil Raj </h1> 
+
+<h2 align="center"> An Aerospace Engineer and electronics enthusiast </h2>
+      
+
+Have you ever wondered how a small mosquito as well massive albatross could fly, how a fish propel, or how a maple seed dispersed through the wind? I still remember the times when I used to see different kinds of birds flying in V-formation. During my 3rd semester of undergraduate study, I found that when birds flap behind each other, the effect of up-wash is produced, which helps the bird to use less power. I was fascinated by how a complex aerodynamic concept could be understood in a simple manner. I believe one could find a solution to every problem through nature. What if we could mimic the locomotion of a cheetah or predict the behavior of a swarm of bees?. This where mathematics plays a vital role. My dream is to design mathematical models for such cases and to implement them in real-life applications (bio-inspired robotics).
+
+
