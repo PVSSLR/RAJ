@@ -18,11 +18,12 @@ title: Experience
   
 I was amoung 40 students to attend a two month short course on remote sensing and image analysis which was conducted by Indian Institute of Remote Sensing, Indian Space Research Organization, Dehradun, India. The main objective of this programme is to train and improve the capacity of working professionals, researchers and students in the field of remote sensing with special emphasis on processing of remotely sensed data using digital image processing techniques.
   
- <img class="image" src="images/IMG_2996.JPG" width="700" height="400" alt="Ini gambar">
+ <img src="images/IMG_2996.JPG alt="Nature" class="responsive">
  
  The course consist of three section which are Basics of Remote sensing and Photogrammetry, Digital Image Analysis and finally a project  work. During this period, I was able to gain both theoretical and practical knowledge in field of Remote sensing and image analysis. I was also able to network with researchers and working professionals from 15+ countries. I completed a project on “Vegetation Index and Aboveground biomass estimation of sea buckthorn on Leh Ladakh using SAR imagery” under the guidance of Dr. Shashi Kumar. The aim of the project was to Study of Synthetic RadarAperture (SAR) polarimetric behaviour for vegetation study and to prediction above ground biomass using SAR imagery.
  
-  <img class="image" src="images/88196498_3190379270972775_7735675917632012288_o.jpg" width="700" height="400" alt="Ini gambar">
+  <img src="images/88196498_3190379270972775_7735675917632012288_o.jpg" alt="Nature" class="responsive">
+ 
   
   Finally, rafting in holy ganga river was an once in a life time experience and swimming in ganga in different degrees of rough water has made me realized how magnificant is mother nature.
  
@@ -31,7 +32,8 @@ I was amoung 40 students to attend a two month short course on remote sensing an
  
  As an Research project executive in Jet Aerospace Aviation Research Center. I got an oppurtunity to teach and guide undergraduate students in the field of Aerospace. I have taught topics such as microcontrollers, sensors, electronics, programming languages and remote sensing during that time. I understood that teaching is a two way thing. The best way to gain knowledge is to teach someone.
  
- <img class="image" src="images/rot.JPG.jpg" width="700" height="400" alt="Ini gambar">
+ <img src="images/rot.JPG.jpg" alt="Nature" class="responsive">
+ 
  
  
  
