@@ -2,6 +2,50 @@
 layout: page
 title: Courses
 ---
+<h1>MY SKILLS</h1>
+
+
+<Center>
+<table>
+  <tr>
+    <td><table border="1">
+      <tbody>
+        <tr>
+          <td>Python</td>
+          <td>⭐⭐⭐⭐</td>
+           <td>Matlab</td>
+          <td>⭐⭐⭐⭐</td>
+        </tr>
+        <tr>
+          <td>CATIA</td>
+          <td>⭐⭐⭐⭐</td>
+          <td>Arduino</td>
+          <td>⭐⭐⭐⭐⭐</td>
+        </tr>
+        <tr>
+          <td>C++</td>
+          <td>⭐⭐⭐⭐</td>
+          <td>KiCAD</td>
+          <td>⭐⭐⭐⭐</td>
+        </tr>
+        <tr>
+          <td>AnSYS</td>
+          <td>⭐⭐⭐⭐</td>
+          <td>openFOAM</td>
+          <td>⭐⭐⭐⭐</td>
+        </tr>
+         <tr>
+          <td>Excel</td>
+          <td>⭐⭐⭐⭐</td>
+          <td>HTML/CSS</td>
+          <td>⭐⭐⭐⭐⭐</td>
+        </tr>
+      </tbody>
+    </table></td>
+  </tr>
+</table>  
+
+
 
 I love to learn new things whenever I get free time. For the past few years, I have been completing online certification courses every month has become my new habit. I audit various courses from platforms such as Coursera, Udemy, Edx, etc. I do believe that what we learn matters the most than these certificates.
 
