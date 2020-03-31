@@ -34,7 +34,7 @@ I love to learn new things whenever I get free time. For the past few years, I h
 <li> Machine Learning</li>
 </ul>  
 
-</h2> Mu Skills </h2>
+<h2> My Skills </h2>
 
 
 <Center>
