@@ -29,7 +29,7 @@ I love to learn new things whenever I get free time. For the past few years, I h
 <li>Python for Mechanical Engineers</li><br>
 </ul>  
 <ul>  
-<h2> Wishlist</h2>
+<h2> Future Interest</h2>
 
 <li> Machine Learning</li>
 </ul>  
