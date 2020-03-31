@@ -13,7 +13,7 @@
 <div class="container">
   
 I believe that one could find a solution to every problem through nature. What if we could mimic the locomotion of a cheetah or predict the behavior of a swarm of bees?. This where mathematics plays a vital role. My dream is to design mathematical models for such cases and to implement them in real-life applications (bio-inspired robotics)
-
+<br>
 Would love to collaborate in the field of biorobotics, remote sensing. I can be reached via my email at: vssunilraj@gmail.com
 
 </div>
