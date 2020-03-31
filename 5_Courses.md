@@ -32,10 +32,10 @@ I love to learn new things whenever I get free time. For the past few years, I h
 <h2> Future Interest</h2>
 
 <li> Machine Learning</li>
-</ul>  
+
 
 <h2> My Skills </h2>
-
+</ul>  
 
 <Center>
 <table>
