@@ -3,7 +3,7 @@ layout: page
 title: Courses
 ---
 
-I love to learn new things whenever I get free time. For the past few years, I have been completing online certification courses every month has became my habit. I audit various courses from platform such as Coursera, Udemy, Edx etc. I do believe that the knowledge matters the most than certificates.
+I love to learn new things whenever I get free time. For the past few years, I have been completing online certification courses every month has become my new habit. I audit various courses from platforms such as Coursera, Udemy, Edx, etc. I do believe that what we learn matters the most than these certificates.
 
 <h2>List of online courses:</h2>
 <ul>
